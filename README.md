@@ -4,8 +4,6 @@
   <img width="300" height="220" src="https://github.com/fikrionii/Data-Cleaning-U.S-Census-Data/blob/main/figs/andy_productivity.jpg">
 </p>
 
-This project will demonstrate some method for cleaning data. After the data is cleaned, it will be analyzed through visualization to find interesting insight. 
-
 ## About The Project
 Frequently when we work with data, we encounter unstructured and/or messy data. Messy data can take a variety of forms. This could mean any of the following:
 
