@@ -4,6 +4,8 @@
   <img width="300" height="220" src="https://github.com/fikrionii/Data-Cleaning-U.S-Census-Data/blob/main/figs/andy_productivity.jpg">
 </p>
 
+🚧 Check the notebook [here](https://github.com/fikrionii/Data-Cleaning-U.S-Census-Data/blob/main/Data%20Cleaning%20-%20US%20Census.ipynb) to see the detail of the project! 🚧
+
 ## About The Project
 Frequently when we work with data, we encounter unstructured and/or messy data. Messy data can take a variety of forms. This could mean any of the following:
 
@@ -16,8 +18,6 @@ While the data may be messy, it is still extremely informative. We need to clean
 Having clean data will improves data quality. Ultimately, this will allow us to make better data-driven decision-making for business.
 
 The aim of this project is to demonstrate some method for cleaning data. After the data is cleaned, it will be analyzed through visualization to find interesting insight.
-
-🚧 Check the notebook [here](https://github.com/fikrionii/Data-Cleaning-U.S-Census-Data/blob/main/Data%20Cleaning%20-%20US%20Census.ipynb) to see the detail of the project!
 
 ## Data Wrangling Method
 In this project, we will cover some technique for data wrangling, such as:
