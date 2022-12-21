@@ -17,6 +17,8 @@ Having clean data will improves data quality. Ultimately, this will allow us to 
 
 The aim of this project is to demonstrate some method for cleaning data. After the data is cleaned, it will be analyzed through visualization to find interesting insight.
 
+🚧 Check the notebook [here](https://github.com/fikrionii/Data-Cleaning-U.S-Census-Data/blob/main/Data%20Cleaning%20-%20US%20Census.ipynb) to see the detail of the project!
+
 ## Data Wrangling Method
 In this project, we will cover some technique for data wrangling, such as:
 
